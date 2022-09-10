@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    font-family: tahoma;
+}
+.container {
+    background-color: aqua;
+    text-align: center;
+    margin: 0 auto;
+    width: 70%;
+    border-radius: 10px;
+    padding: 20px;
+}
+#he {
+    margin-top:4rem;
+    margin-bottom: 2rem;
+}
+label {
+    display: block;
+    font-size: 23px;
+    font-weight: 500;
+}
+input {
+    width: 10rem;
+    height: 2rem;
+    text-align: center;
+    font-size: 1.2rem;
+    border-radius: 10px;
+}
